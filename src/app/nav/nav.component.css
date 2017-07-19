@@ -1,0 +1,22 @@
+*{
+    margin-top: 40px;
+    margin-left: 20px;
+}
+.nav{
+    display: inline-block;
+    border: solid;
+    width: 200px;
+    height: 500px;
+    vertical-align: top;
+    background-color: #9ac3fa;
+}
+
+h3{
+    margin: 15px;
+}
+button{
+    text-align: center;
+    margin-left: 20px;
+    display: block;
+    width: 150px;
+}

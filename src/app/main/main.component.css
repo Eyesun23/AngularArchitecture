@@ -1,0 +1,22 @@
+*{
+    margin-top: 40px
+  
+}
+
+.main{
+    display: inline-block;
+    border: solid;
+    width: 1000px;
+    height: 500px;
+    margin-left: 20px;
+    background-color: #9ac3fa;
+}
+
+h2{
+    margin: 10px;
+}
+
+p {
+  padding-left: 15px;
+  padding-right: 15px;
+}
